@@ -25,6 +25,12 @@ img{
 p{
 	text-align:center;
 }
-#cell_1{
+#latest-news-section{
+    padding:5px;
 	width:1000px;
+}
+#pictorial-news-section{
+	border-radius:5px;
+	padding:10px;
+	width:250px;
 }
